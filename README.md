@@ -1,4 +1,12 @@
-## 欢迎来到我的精神世界
+## 🍒欢迎来到我的精神世界🫐
+### 🤔我是谁？
+
+    🌭姓名：不重要的路人甲
+
+    🥪学校：OUC本科在读
+
+    🧀兴趣爱好：没什么兴趣爱好，除非你管追剧追星叫爱好😜
+    
 
 <!--
 **chx0211/chx0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
