@@ -10,8 +10,7 @@
     🍕擅长：给别人推荐电视剧🤪，给别人安利我担🤑，切我担小卡😉，坚信我担天下第一！🧐
 
     🥐口头禅：荒谬！ 太荒谬了！（万物皆可荒谬！）
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">           <img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
+<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">           <img src="https://github.com/chx0211/chx0211/blob/main/EXO.jpg" width="240px">
 
 ## 🫠自我评估
 
