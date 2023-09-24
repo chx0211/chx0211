@@ -1,22 +1,25 @@
-#  🍒欢迎来到我的精神世界🫐
-## 🤔我是谁？
+
+#  <div align="center">  🍒欢迎来到我的精神世界🫐
+## <div align="center">  🤔我是谁？
 
     🌭姓名：不重要的路人甲
 
     🥪学校：OUC本科在读
 
-    🧀兴趣爱好：喜欢看看剧、追星😜(贴图）
+    🧀兴趣爱好：喜欢看看剧、追追星😜、没事去看看演唱会，听听livehouse
     
     🍕擅长：给别人推荐电视剧🤪，给别人安利我担🤑，切我担小卡😉，坚信我担天下第一！🧐
 
     🥐口头禅：荒谬！ 太荒谬了！（万物皆可荒谬！）
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">           <img src="https://github.com/chx0211/chx0211/blob/main/EXO.jpg" width="240px">
+### <div align="center"> 🤩请各位欣赏我担
+<div align="center"><img src="https://github.com/chx0211/chx0211/blob/main/EXO.jpg" width="240px"> <img src="https://github.com/chx0211/chx0211/blob/main/DINOPR0.jpg" width="240px">   
 
 ## 🫠自我评估
 
     💫目前是OUC一名平平无奇的大三在校生，在过去的两年里即便什么都学得不是很好，但是也是凭本事“一个期末周创造几个不挂科奇迹”！
     
     💦还有很多需要提升改进学习的地方，要多多学习，多多了解。
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chx0211&show_icons=true&theme=tokyonight" /> </div>
 
 ## 😆未来规划
