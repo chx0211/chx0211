@@ -30,7 +30,7 @@
     
 <div align="center"> <img src="https://github.com/chx0211/chx0211/blob/main/11.jpg" width="360px">  
 <div align="center"> <img src="https://profile-counter.glitch.me/chx0211/count.svg" /> </div>
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=;小陈同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=;天天开心，万事顺遂！;小陈同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 
     
 
