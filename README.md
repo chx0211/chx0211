@@ -10,9 +10,9 @@
     🍕擅长：给别人推荐电视剧🤪，给别人安利我担🤑，切我担小卡😉，坚信我担天下第一！🧐
 
     🥐口头禅：荒谬！ 太荒谬了！（万物皆可荒谬！）
+<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">           <img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
 <img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">
+
 ## 🫠自我评估
 
     💫目前是OUC一名平平无奇的大三在校生，在过去的两年里即便什么都学得不是很好，但是也是凭本事“一个期末周创造几个不挂科奇迹”！
@@ -26,8 +26,9 @@
 
     😸多多提升自己的能力吧！
     
-<img src="https://github.com/chx0211/chx0211/blob/main/DINO.jpg" width="240px">  
+<div align="center"> <img src="https://github.com/chx0211/chx0211/blob/main/11.jpg" width="360px">  
 <div align="center"> <img src="https://profile-counter.glitch.me/chx0211/count.svg" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=;小陈同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
 
     
 
